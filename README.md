@@ -32,8 +32,8 @@
 将本仓库复制到 Codex 个人 Skill 目录：
 
 ```bash
-git clone "https://github.com/HeyClioo/公众号封面生成与评选-Skill.git"
-cp -R "公众号封面生成与评选-Skill" "$HOME/.codex/skills/wechat-article-cover"
+git clone https://github.com/HeyClioo/wechat-article-cover-skill.git
+cp -R wechat-article-cover-skill "$HOME/.codex/skills/wechat-article-cover"
 ```
 
 ### 方法二：使用安装包
